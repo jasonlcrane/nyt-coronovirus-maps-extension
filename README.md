@@ -7,6 +7,8 @@ This is a Chrome extension to modify the New York Times coronavirus maps to _may
 
 I'm not a designer, but this made things feel better to me.
 
+![Map showing U.S. cases](img/nyt-map-blue.png)
+
 ## Installation
 To install on desktop Chrome, download these files, go to [chrome://extensions/](chrome://extensions/), turn on `Developer mode` in the top right corner, and then either drag the directory onto the extension page, or select the `Load unpacked` button near the top left corner. Browse to the directory of the downloaded files and hit `Select`.
 
