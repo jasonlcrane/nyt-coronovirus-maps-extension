@@ -13,4 +13,4 @@ I'm not a designer, but this made things feel better to me.
 To install on desktop Chrome, download these files, go to [chrome://extensions/](chrome://extensions/), turn on `Developer mode` in the top right corner, and then either drag the directory onto the extension page, or select the `Load unpacked` button near the top left corner. Browse to the directory of the downloaded files and hit `Select`.
 
 ## Support journalism
-Also, if you can, [subscribe to the New York Times](http://nytimes.com/subscribe) or other media outlet of your choice. Being informed is more than important than ever. I know that most news services are making their coronovirus coverage free, which is absolutely the right thing to do. But it's also more important than ever to support the independent journalism that keeps us informed.
+Also, if you can, [subscribe to the New York Times](http://nytimes.com/subscribe) or other media outlet of your choice. I know that most news services are making their coronovirus coverage free, which is absolutely the right thing to do. But it's also more important than ever to support the independent journalism that keeps us informed.
