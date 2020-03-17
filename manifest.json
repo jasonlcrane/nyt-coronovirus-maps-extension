@@ -1,0 +1,16 @@
+{
+  "name": "NYTimes coronovirus maps",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "NYTimes coronovirus maps, now with less anxiety",
+  "content_scripts": [
+    {
+      "css": [
+        "styles.css"
+      ],
+      "matches": [
+        "https://www.nytimes.com/*"
+      ]
+    }
+  ]
+}

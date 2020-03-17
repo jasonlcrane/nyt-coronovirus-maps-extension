@@ -1,0 +1,30 @@
+.g-corona-map .g-affected-countries {
+  fill: #ececec !important;
+}
+.g-corona-map .count {
+  color: rgb(0, 96, 255) !important;
+}
+
+circle.svelte-12ai9yo {
+  stroke: rgb(0, 96, 255) !important;
+  fill: rgba(0, 96, 255, 0.075) !important;
+}
+
+.g-corona-map .g-lvl3 {
+  fill: #c9c9c9 !important;
+}
+
+.legend-item.g-affected-countries span.block {
+  background-color: #ececec !important;
+  border-color: #ececec !important;
+}
+
+.legend-item.g-lvl3 span.block {
+  background-color: #c9c9c9 !important;
+  border-color: #c9c9c9 !important;
+}
+
+.count.svelte-gtpf9z.svelte-gtpf9z {
+  color: rgb(68, 68, 68) !important;
+  font-size: 18px !important;
+}
