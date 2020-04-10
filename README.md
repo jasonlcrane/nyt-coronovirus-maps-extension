@@ -1,4 +1,6 @@
-# New York Times coronavirus maps extension
+# New York Times coronavirus maps extension (this is no longer working)
+
+*Note:* The New York Times made some great changes to their maps, and this extension no longer works. I don't plan to update it.
 
 Some us are statistics stalkers, checking the number of coronavirus cases and deaths probably way more than we should. Read [Ellen Peters' piece](https://www.nytimes.com/2020/03/12/opinion/sunday/coronavirus-statistics.html) on this on nytimes.com. 
 
